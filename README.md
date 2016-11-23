@@ -22,11 +22,13 @@
 # 表单处理
 
 ## <select> 相关
+
 - [bootstrap-select](https://github.com/silviomoreto/bootstrap-select)
 - [select2](https://github.com/select2/select2)
 - [chosen](https://github.com/harvesthq/chosen)
 
 ## 上传插件
+
 - [fine-uploader](https://github.com/FineUploader/fine-uploader)
 - [upload](https://github.com/aralejs/upload)
 - [uploadify](http://www.uploadify.com/)
@@ -34,19 +36,23 @@
 - [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)
 
 ## 日期选择
+
 - [Both Date and Time picker widget based on twitter bootstrap](https://github.com/smalot/bootstrap-datetimepicker)
 - [GMU日历组件]()
 - [mobiscroll](https://github.com/acidb/mobiscroll)
 
 ## 取色插件
+
 - [bootstrap-colorpicker](https://github.com/mjolnic/bootstrap-colorpicker)
 
 ## 图表绘制
+
 - [Simple HTML5 Charts using the <canvas> tag](https://github.com/chartjs/Chart.js)
 - [echarts](https://github.com/ecomfe/echarts)
 - [chartist-js](https://github.com/gionkunz/chartist-js)
 
 ## 日期格式化
+
 - [momentjs](http://momentjs.com/)
 
 ## 表格
