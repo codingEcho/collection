@@ -19,7 +19,6 @@
 ## UA 识别
 - [detector](https://github.com/hotoo/detector)
 
-# 表单处理
 
 ## <select> 相关
 
@@ -56,17 +55,21 @@
 - [momentjs](http://momentjs.com/)
 
 ## 表格
+
 - [datatables](https://datatables.net/)
 
 ## Slider
+
 - [Slick](https://github.com/kenwheeler/slick/)
 - [Swiper](http://idangero.us/swiper/)
 - [Swipe](https://github.com/thebird/Swipe)
 
 ## 瀑布流
+
 - [Masonry](http://masonry.desandro.com/)
 - [Isotope - Filter & sort magical layouts](http://isotope.metafizzy.co/)
 
 ## 图片懒加载
+
 - [imagesloaded](http://imagesloaded.desandro.com/)
 - [Echo.js](https://github.com/toddmotto/echo)
